@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "174456400808",
+    "project_id": "nishantstore-e5cbf",
+    "storage_bucket": "nishantstore-e5cbf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174456400808:android:18778b4c84b0a15a5c4b9d",
+        "android_client_info": {
+          "package_name": "com.example.nishant_store"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174456400808-c7a4n7m9udkcj96g666pgquk1egli0hb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nishant_store",
+            "certificate_hash": "ba2270181c41a6e783b312d5bf736123718be601"
+          }
+        },
+        {
+          "client_id": "174456400808-ktribb9ua8d32vfg6842s9n1lsm0i8pm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrLOWFaMd3ZHgUN5uHN7-ii72B6kTDBec"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174456400808-ktribb9ua8d32vfg6842s9n1lsm0i8pm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "174456400808-ndbu2561nfm4ug3o7v515ak43g5vs0di.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.nishantStore"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

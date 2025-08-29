@@ -1,0 +1,3852 @@
+[
+  {
+    "Brands": {
+      "id": "8",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Knewood",
+      "ProductCount": 234
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+    "IsFeatured": true,
+    "Price": 293,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "Black",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 40",
+          "2": "EU 36"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Knewood in Green color and size EU 38.",
+        "Id": "1-0",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 293,
+        "SKU": "KNE7222",
+        "SalePrice": 266,
+        "Stock": 12
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 40"
+        },
+        "Description": "A wooden variation of Knewood in Black color and size EU 40.",
+        "Id": "1-1",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 293,
+        "SKU": "KNE3291",
+        "SalePrice": 266,
+        "Stock": 12
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A wooden variation of Knewood in White color and size EU 36.",
+        "Id": "1-2",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 293,
+        "SKU": "KNE1155",
+        "SalePrice": 266,
+        "Stock": 12
+      }
+    },
+    "SKU": "KNE3199",
+    "SalePrice": 266,
+    "Stock": 12,
+    "Title": "Wooden by Knewood #1"
+  },
+  {
+    "Brands": {
+      "id": "7",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Apple",
+      "ProductCount": 415
+    },
+    "CategoryId": 7,
+    "Description": "This dog product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+    "IsFeatured": true,
+    "Price": 438,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "Black",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 40",
+          "2": "EU 36"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 34"
+        },
+        "Description": "A dog variation of Apple in Green color and size EU 34.",
+        "Id": "2-0",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 438,
+        "SKU": "APP2612",
+        "SalePrice": 408,
+        "Stock": 79
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 40"
+        },
+        "Description": "A dog variation of Apple in Black color and size EU 40.",
+        "Id": "2-1",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 438,
+        "SKU": "APP1325",
+        "SalePrice": 408,
+        "Stock": 79
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 36"
+        },
+        "Description": "A dog variation of Apple in Yellow color and size EU 36.",
+        "Id": "2-2",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 438,
+        "SKU": "APP8676",
+        "SalePrice": 408,
+        "Stock": 79
+      }
+    },
+    "SKU": "APP4437",
+    "SalePrice": 408,
+    "Stock": 79,
+    "Title": "Dog by Apple #2"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Acer",
+      "ProductCount": 54
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Acer is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+    "IsFeatured": true,
+    "Price": 80,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Yellow",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 34",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Acer in Red color and size EU 40.",
+        "Id": "3-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 80,
+        "SKU": "ACE7354",
+        "SalePrice": 62,
+        "Stock": 59
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A shoes variation of Acer in Yellow color and size EU 34.",
+        "Id": "3-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 80,
+        "SKU": "ACE6705",
+        "SalePrice": 62,
+        "Stock": 59
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A shoes variation of Acer in Green color and size EU 30.",
+        "Id": "3-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 80,
+        "SKU": "ACE8454",
+        "SalePrice": 62,
+        "Stock": 59
+      }
+    },
+    "SKU": "ACE9676",
+    "SalePrice": 62,
+    "Stock": 59,
+    "Title": "Shoes by Acer #3"
+  },
+  {
+    "Brands": {
+      "id": "9",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Knewood",
+      "ProductCount": 296
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+    "IsFeatured": true,
+    "Price": 285,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Green",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 30",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A smartphone variation of Knewood in White color and size EU 36.",
+        "Id": "4-0",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 285,
+        "SKU": "KNE1727",
+        "SalePrice": 271,
+        "Stock": 64
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A smartphone variation of Knewood in Green color and size EU 30.",
+        "Id": "4-1",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 285,
+        "SKU": "KNE6037",
+        "SalePrice": 271,
+        "Stock": 64
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 32"
+        },
+        "Description": "A smartphone variation of Knewood in Red color and size EU 32.",
+        "Id": "4-2",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 285,
+        "SKU": "KNE2124",
+        "SalePrice": 271,
+        "Stock": 64
+      }
+    },
+    "SKU": "KNE5425",
+    "SalePrice": 271,
+    "Stock": 64,
+    "Title": "SmartPhone by Knewood #4"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Ikea",
+      "ProductCount": 66
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": false,
+    "Price": 427,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Green",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 30",
+          "Two": "EU 38",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 30"
+        },
+        "Description": "A tailors variation of Ikea in Red color and size EU 30.",
+        "Id": "5-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 427,
+        "SKU": "IKE7962",
+        "SalePrice": 412,
+        "Stock": 82
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A tailors variation of Ikea in Green color and size EU 38.",
+        "Id": "5-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 427,
+        "SKU": "IKE3493",
+        "SalePrice": 412,
+        "Stock": 82
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A tailors variation of Ikea in White color and size EU 32.",
+        "Id": "5-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 427,
+        "SKU": "IKE9278",
+        "SalePrice": 412,
+        "Stock": 82
+      }
+    },
+    "SKU": "IKE6134",
+    "SalePrice": 412,
+    "Stock": 82,
+    "Title": "Tailors by Ikea #5"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Apple",
+      "ProductCount": 456
+    },
+    "CategoryId": 7,
+    "Description": "This dog product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+    "IsFeatured": true,
+    "Price": 318,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "Black",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 36",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A dog variation of Apple in Yellow color and size EU 34.",
+        "Id": "6-0",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 318,
+        "SKU": "APP2719",
+        "SalePrice": 307,
+        "Stock": 50
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 36"
+        },
+        "Description": "A dog variation of Apple in Black color and size EU 36.",
+        "Id": "6-1",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 318,
+        "SKU": "APP2865",
+        "SalePrice": 307,
+        "Stock": 50
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 38"
+        },
+        "Description": "A dog variation of Apple in White color and size EU 38.",
+        "Id": "6-2",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 318,
+        "SKU": "APP3594",
+        "SalePrice": 307,
+        "Stock": 50
+      }
+    },
+    "SKU": "APP5192",
+    "SalePrice": 307,
+    "Stock": 50,
+    "Title": "Dog by Apple #6"
+  },
+  {
+    "Brands": {
+      "id": "8",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Puma",
+      "ProductCount": 221
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Puma is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+    "IsFeatured": true,
+    "Price": 499,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Black",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 32",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Puma in White color and size EU 40.",
+        "Id": "7-0",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 499,
+        "SKU": "PUM4901",
+        "SalePrice": 482,
+        "Stock": 52
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Puma in Black color and size EU 32.",
+        "Id": "7-1",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 499,
+        "SKU": "PUM6745",
+        "SalePrice": 482,
+        "Stock": 52
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 34"
+        },
+        "Description": "A shoes variation of Puma in Green color and size EU 34.",
+        "Id": "7-2",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 499,
+        "SKU": "PUM3863",
+        "SalePrice": 482,
+        "Stock": 52
+      }
+    },
+    "SKU": "PUM1527",
+    "SalePrice": 482,
+    "Stock": 52,
+    "Title": "Shoes by Puma #7"
+  },
+  {
+    "Brands": {
+      "id": "7",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Zara",
+      "ProductCount": 457
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Zara is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+    "IsFeatured": true,
+    "Price": 76,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Black",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 34",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 38"
+        },
+        "Description": "A shoes variation of Zara in Blue color and size EU 38.",
+        "Id": "8-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 76,
+        "SKU": "ZAR8972",
+        "SalePrice": 61,
+        "Stock": 19
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A shoes variation of Zara in Black color and size EU 34.",
+        "Id": "8-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 76,
+        "SKU": "ZAR9572",
+        "SalePrice": 61,
+        "Stock": 19
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Zara in Red color and size EU 32.",
+        "Id": "8-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 76,
+        "SKU": "ZAR5119",
+        "SalePrice": 61,
+        "Stock": 19
+      }
+    },
+    "SKU": "ZAR9158",
+    "SalePrice": 61,
+    "Stock": 19,
+    "Title": "Shoes by Zara #8"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Jorden",
+      "ProductCount": 261
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Jorden is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+    "IsFeatured": false,
+    "Price": 233,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Green",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 36",
+          "2": "EU 40"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Jorden in White color and size EU 32.",
+        "Id": "9-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 233,
+        "SKU": "JOR7052",
+        "SalePrice": 210,
+        "Stock": 16
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 36"
+        },
+        "Description": "A shoes variation of Jorden in Green color and size EU 36.",
+        "Id": "9-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 233,
+        "SKU": "JOR8798",
+        "SalePrice": 210,
+        "Stock": 16
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Jorden in Yellow color and size EU 40.",
+        "Id": "9-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 233,
+        "SKU": "JOR3020",
+        "SalePrice": 210,
+        "Stock": 16
+      }
+    },
+    "SKU": "JOR3574",
+    "SalePrice": 210,
+    "Stock": 16,
+    "Title": "Shoes by Jorden #9"
+  },
+  {
+    "Brands": {
+      "id": "7",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Puma",
+      "ProductCount": 57
+    },
+    "CategoryId": 4,
+    "Description": "This sparkling product from Puma is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wine_glass/wine_glass_PNG102.png",
+    "IsFeatured": true,
+    "Price": 60,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "Green",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 36",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 40"
+        },
+        "Description": "A sparkling variation of Puma in Yellow color and size EU 40.",
+        "Id": "10-0",
+        "Image": "https://pngimg.com/uploads/wine_glass/wine_glass_PNG102.png",
+        "Price": 60,
+        "SKU": "PUM2271",
+        "SalePrice": 32,
+        "Stock": 30
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 36"
+        },
+        "Description": "A sparkling variation of Puma in Green color and size EU 36.",
+        "Id": "10-1",
+        "Image": "https://pngimg.com/uploads/wine_glass/wine_glass_PNG102.png",
+        "Price": 60,
+        "SKU": "PUM2173",
+        "SalePrice": 32,
+        "Stock": 30
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A sparkling variation of Puma in White color and size EU 32.",
+        "Id": "10-2",
+        "Image": "https://pngimg.com/uploads/wine_glass/wine_glass_PNG102.png",
+        "Price": 60,
+        "SKU": "PUM7381",
+        "SalePrice": 32,
+        "Stock": 30
+      }
+    },
+    "SKU": "PUM4643",
+    "SalePrice": 32,
+    "Stock": 30,
+    "Title": "Sparkling by Puma #10"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Addidas",
+      "ProductCount": 94
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Addidas is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+    "IsFeatured": true,
+    "Price": 442,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Red",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 40",
+          "2": "EU 36"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A smartphone variation of Addidas in Black color and size EU 34.",
+        "Id": "11-0",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 442,
+        "SKU": "ADD3547",
+        "SalePrice": 422,
+        "Stock": 70
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A smartphone variation of Addidas in Red color and size EU 40.",
+        "Id": "11-1",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 442,
+        "SKU": "ADD9275",
+        "SalePrice": 422,
+        "Stock": 70
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A smartphone variation of Addidas in White color and size EU 36.",
+        "Id": "11-2",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 442,
+        "SKU": "ADD8098",
+        "SalePrice": 422,
+        "Stock": 70
+      }
+    },
+    "SKU": "ADD5676",
+    "SalePrice": 422,
+    "Stock": 70,
+    "Title": "SmartPhone by Addidas #11"
+  },
+  {
+    "Brands": {
+      "id": "6",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Herman Miller",
+      "ProductCount": 212
+    },
+    "CategoryId": 8,
+    "Description": "This dining product from Herman Miller is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+    "IsFeatured": false,
+    "Price": 53,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Yellow",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 40",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 36"
+        },
+        "Description": "A dining variation of Herman Miller in Blue color and size EU 36.",
+        "Id": "12-0",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 53,
+        "SKU": "HER7486",
+        "SalePrice": 44,
+        "Stock": 96
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 40"
+        },
+        "Description": "A dining variation of Herman Miller in Yellow color and size EU 40.",
+        "Id": "12-1",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 53,
+        "SKU": "HER3474",
+        "SalePrice": 44,
+        "Stock": 96
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 34"
+        },
+        "Description": "A dining variation of Herman Miller in White color and size EU 34.",
+        "Id": "12-2",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 53,
+        "SKU": "HER3403",
+        "SalePrice": 44,
+        "Stock": 96
+      }
+    },
+    "SKU": "HER3683",
+    "SalePrice": 44,
+    "Stock": 96,
+    "Title": "Dining by Herman Miller #12"
+  },
+  {
+    "Brands": {
+      "id": "1",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Jorden",
+      "ProductCount": 95
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Jorden is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": false,
+    "Price": 247,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Yellow",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 30",
+          "Two": "EU 34",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 30"
+        },
+        "Description": "A wooden variation of Jorden in Black color and size EU 30.",
+        "Id": "13-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 247,
+        "SKU": "JOR2869",
+        "SalePrice": 225,
+        "Stock": 78
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Jorden in Yellow color and size EU 34.",
+        "Id": "13-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 247,
+        "SKU": "JOR7339",
+        "SalePrice": 225,
+        "Stock": 78
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Jorden in Green color and size EU 38.",
+        "Id": "13-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 247,
+        "SKU": "JOR3281",
+        "SalePrice": 225,
+        "Stock": 78
+      }
+    },
+    "SKU": "JOR3769",
+    "SalePrice": 225,
+    "Stock": 78,
+    "Title": "Wooden by Jorden #13"
+  },
+  {
+    "Brands": {
+      "id": "8",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Knewood",
+      "ProductCount": 394
+    },
+    "CategoryId": 4,
+    "Description": "This sparkling product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+    "IsFeatured": true,
+    "Price": 479,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Green",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 30",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 36"
+        },
+        "Description": "A sparkling variation of Knewood in Blue color and size EU 36.",
+        "Id": "14-0",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 479,
+        "SKU": "KNE8557",
+        "SalePrice": 465,
+        "Stock": 70
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A sparkling variation of Knewood in Green color and size EU 30.",
+        "Id": "14-1",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 479,
+        "SKU": "KNE9367",
+        "SalePrice": 465,
+        "Stock": 70
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A sparkling variation of Knewood in Red color and size EU 38.",
+        "Id": "14-2",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 479,
+        "SKU": "KNE2355",
+        "SalePrice": 465,
+        "Stock": 70
+      }
+    },
+    "SKU": "KNE3490",
+    "SalePrice": 465,
+    "Stock": 70,
+    "Title": "Sparkling by Knewood #14"
+  },
+  {
+    "Brands": {
+      "id": "2",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Addidas",
+      "ProductCount": 93
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Addidas is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+    "IsFeatured": true,
+    "Price": 343,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Green",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 32",
+          "2": "EU 40"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A smartphone variation of Addidas in White color and size EU 36.",
+        "Id": "15-0",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 343,
+        "SKU": "ADD2771",
+        "SalePrice": 319,
+        "Stock": 91
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 32"
+        },
+        "Description": "A smartphone variation of Addidas in Green color and size EU 32.",
+        "Id": "15-1",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 343,
+        "SKU": "ADD1655",
+        "SalePrice": 319,
+        "Stock": 91
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 40"
+        },
+        "Description": "A smartphone variation of Addidas in Blue color and size EU 40.",
+        "Id": "15-2",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 343,
+        "SKU": "ADD7033",
+        "SalePrice": 319,
+        "Stock": 91
+      }
+    },
+    "SKU": "ADD1012",
+    "SalePrice": 319,
+    "Stock": 91,
+    "Title": "SmartPhone by Addidas #15"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Acer",
+      "ProductCount": 101
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Acer is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": false,
+    "Price": 214,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "Blue",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 30",
+          "Two": "EU 40",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 30"
+        },
+        "Description": "A wooden variation of Acer in Yellow color and size EU 30.",
+        "Id": "16-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 214,
+        "SKU": "ACE4900",
+        "SalePrice": 185,
+        "Stock": 58
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 40"
+        },
+        "Description": "A wooden variation of Acer in Blue color and size EU 40.",
+        "Id": "16-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 214,
+        "SKU": "ACE8339",
+        "SalePrice": 185,
+        "Stock": 58
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Acer in Black color and size EU 34.",
+        "Id": "16-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 214,
+        "SKU": "ACE8916",
+        "SalePrice": 185,
+        "Stock": 58
+      }
+    },
+    "SKU": "ACE1850",
+    "SalePrice": 185,
+    "Stock": 58,
+    "Title": "Wooden by Acer #16"
+  },
+  {
+    "Brands": {
+      "id": "7",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Knewood",
+      "ProductCount": 131
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": true,
+    "Price": 71,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Green",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 30",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 36"
+        },
+        "Description": "A tailors variation of Knewood in Red color and size EU 36.",
+        "Id": "17-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 71,
+        "SKU": "KNE1061",
+        "SalePrice": 58,
+        "Stock": 14
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A tailors variation of Knewood in Green color and size EU 30.",
+        "Id": "17-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 71,
+        "SKU": "KNE6997",
+        "SalePrice": 58,
+        "Stock": 14
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 34"
+        },
+        "Description": "A tailors variation of Knewood in White color and size EU 34.",
+        "Id": "17-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 71,
+        "SKU": "KNE2150",
+        "SalePrice": 58,
+        "Stock": 14
+      }
+    },
+    "SKU": "KNE1588",
+    "SalePrice": 58,
+    "Stock": 14,
+    "Title": "Tailors by Knewood #17"
+  },
+  {
+    "Brands": {
+      "id": "9",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Puma",
+      "ProductCount": 198
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Puma is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": false,
+    "Price": 55,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "White",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 32",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A tailors variation of Puma in Black color and size EU 34.",
+        "Id": "18-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 55,
+        "SKU": "PUM7108",
+        "SalePrice": 40,
+        "Stock": 78
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A tailors variation of Puma in White color and size EU 32.",
+        "Id": "18-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 55,
+        "SKU": "PUM4244",
+        "SalePrice": 40,
+        "Stock": 78
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A tailors variation of Puma in Green color and size EU 38.",
+        "Id": "18-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 55,
+        "SKU": "PUM8600",
+        "SalePrice": 40,
+        "Stock": 78
+      }
+    },
+    "SKU": "PUM4251",
+    "SalePrice": 40,
+    "Stock": 78,
+    "Title": "Tailors by Puma #18"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Apple",
+      "ProductCount": 170
+    },
+    "CategoryId": 8,
+    "Description": "This dining product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+    "IsFeatured": false,
+    "Price": 123,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Blue",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 36",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 34"
+        },
+        "Description": "A dining variation of Apple in Red color and size EU 34.",
+        "Id": "19-0",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 123,
+        "SKU": "APP6387",
+        "SalePrice": 102,
+        "Stock": 19
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 36"
+        },
+        "Description": "A dining variation of Apple in Blue color and size EU 36.",
+        "Id": "19-1",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 123,
+        "SKU": "APP3533",
+        "SalePrice": 102,
+        "Stock": 19
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A dining variation of Apple in Green color and size EU 30.",
+        "Id": "19-2",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 123,
+        "SKU": "APP2101",
+        "SalePrice": 102,
+        "Stock": 19
+      }
+    },
+    "SKU": "APP6270",
+    "SalePrice": 102,
+    "Stock": 19,
+    "Title": "Dining by Apple #19"
+  },
+  {
+    "Brands": {
+      "id": "10",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Addidas",
+      "ProductCount": 434
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Addidas is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": true,
+    "Price": 57,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Red",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 38",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 36"
+        },
+        "Description": "A wooden variation of Addidas in Black color and size EU 36.",
+        "Id": "20-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 57,
+        "SKU": "ADD4800",
+        "SalePrice": 50,
+        "Stock": 57
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Addidas in Red color and size EU 38.",
+        "Id": "20-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 57,
+        "SKU": "ADD2437",
+        "SalePrice": 50,
+        "Stock": 57
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 32"
+        },
+        "Description": "A wooden variation of Addidas in Yellow color and size EU 32.",
+        "Id": "20-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 57,
+        "SKU": "ADD4075",
+        "SalePrice": 50,
+        "Stock": 57
+      }
+    },
+    "SKU": "ADD4972",
+    "SalePrice": 50,
+    "Stock": 57,
+    "Title": "Wooden by Addidas #20"
+  },
+  {
+    "Brands": {
+      "id": "7",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Nike",
+      "ProductCount": 139
+    },
+    "CategoryId": 7,
+    "Description": "This dog product from Nike is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+    "IsFeatured": false,
+    "Price": 254,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Red",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 36",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 32"
+        },
+        "Description": "A dog variation of Nike in Blue color and size EU 32.",
+        "Id": "21-0",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 254,
+        "SKU": "NIK8600",
+        "SalePrice": 231,
+        "Stock": 75
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 36"
+        },
+        "Description": "A dog variation of Nike in Red color and size EU 36.",
+        "Id": "21-1",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 254,
+        "SKU": "NIK2358",
+        "SalePrice": 231,
+        "Stock": 75
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 38"
+        },
+        "Description": "A dog variation of Nike in White color and size EU 38.",
+        "Id": "21-2",
+        "Image": "https://pngimg.com/uploads/dog/dog_PNG50353.png",
+        "Price": 254,
+        "SKU": "NIK7335",
+        "SalePrice": 231,
+        "Stock": 75
+      }
+    },
+    "SKU": "NIK3657",
+    "SalePrice": 231,
+    "Stock": 75,
+    "Title": "Dog by Nike #21"
+  },
+  {
+    "Brands": {
+      "id": "8",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Ikea",
+      "ProductCount": 420
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+    "IsFeatured": false,
+    "Price": 400,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "Black",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 38",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A smartphone variation of Ikea in Yellow color and size EU 34.",
+        "Id": "22-0",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 400,
+        "SKU": "IKE7494",
+        "SalePrice": 377,
+        "Stock": 63
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 38"
+        },
+        "Description": "A smartphone variation of Ikea in Black color and size EU 38.",
+        "Id": "22-1",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 400,
+        "SKU": "IKE8550",
+        "SalePrice": 377,
+        "Stock": 63
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A smartphone variation of Ikea in Green color and size EU 30.",
+        "Id": "22-2",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 400,
+        "SKU": "IKE7561",
+        "SalePrice": 377,
+        "Stock": 63
+      }
+    },
+    "SKU": "IKE1124",
+    "SalePrice": 377,
+    "Stock": 63,
+    "Title": "SmartPhone by Ikea #22"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Herman Miller",
+      "ProductCount": 487
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Herman Miller is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": true,
+    "Price": 125,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Green",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 36",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A tailors variation of Herman Miller in White color and size EU 32.",
+        "Id": "23-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 125,
+        "SKU": "HER1285",
+        "SalePrice": 120,
+        "Stock": 28
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 36"
+        },
+        "Description": "A tailors variation of Herman Miller in Green color and size EU 36.",
+        "Id": "23-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 125,
+        "SKU": "HER3203",
+        "SalePrice": 120,
+        "Stock": 28
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A tailors variation of Herman Miller in Red color and size EU 38.",
+        "Id": "23-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 125,
+        "SKU": "HER8913",
+        "SalePrice": 120,
+        "Stock": 28
+      }
+    },
+    "SKU": "HER3634",
+    "SalePrice": 120,
+    "Stock": 28,
+    "Title": "Tailors by Herman Miller #23"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Acer",
+      "ProductCount": 408
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Acer is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+    "IsFeatured": true,
+    "Price": 85,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "White",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 32",
+          "2": "EU 40"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A shoes variation of Acer in Green color and size EU 38.",
+        "Id": "24-0",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 85,
+        "SKU": "ACE5281",
+        "SalePrice": 57,
+        "Stock": 59
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Acer in White color and size EU 32.",
+        "Id": "24-1",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 85,
+        "SKU": "ACE9376",
+        "SalePrice": 57,
+        "Stock": 59
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Acer in Red color and size EU 40.",
+        "Id": "24-2",
+        "Image": "https://pngimg.com/uploads/sneakers/sneakers_PNG1540.png",
+        "Price": 85,
+        "SKU": "ACE4397",
+        "SalePrice": 57,
+        "Stock": 59
+      }
+    },
+    "SKU": "ACE6644",
+    "SalePrice": 57,
+    "Stock": 59,
+    "Title": "Shoes by Acer #24"
+  },
+  {
+    "Brands": {
+      "id": "2",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Knewood",
+      "ProductCount": 214
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+    "IsFeatured": false,
+    "Price": 400,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "White",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 30",
+          "2": "EU 36"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 32"
+        },
+        "Description": "A smartphone variation of Knewood in Green color and size EU 32.",
+        "Id": "25-0",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 400,
+        "SKU": "KNE2452",
+        "SalePrice": 373,
+        "Stock": 11
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 30"
+        },
+        "Description": "A smartphone variation of Knewood in White color and size EU 30.",
+        "Id": "25-1",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 400,
+        "SKU": "KNE4596",
+        "SalePrice": 373,
+        "Stock": 11
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 36"
+        },
+        "Description": "A smartphone variation of Knewood in Black color and size EU 36.",
+        "Id": "25-2",
+        "Image": "https://pngimg.com/uploads/smartphone/smartphone_PNG8534.png",
+        "Price": 400,
+        "SKU": "KNE9427",
+        "SalePrice": 373,
+        "Stock": 11
+      }
+    },
+    "SKU": "KNE7322",
+    "SalePrice": 373,
+    "Stock": 11,
+    "Title": "SmartPhone by Knewood #25"
+  },
+  {
+    "Brands": {
+      "id": "9",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Herman Miller",
+      "ProductCount": 458
+    },
+    "CategoryId": 6,
+    "Description": "This school product from Herman Miller is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+    "IsFeatured": false,
+    "Price": 356,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "White",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 36",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A school variation of Herman Miller in Red color and size EU 38.",
+        "Id": "26-0",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 356,
+        "SKU": "HER8543",
+        "SalePrice": 342,
+        "Stock": 91
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A school variation of Herman Miller in White color and size EU 36.",
+        "Id": "26-1",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 356,
+        "SKU": "HER8537",
+        "SalePrice": 342,
+        "Stock": 91
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 32"
+        },
+        "Description": "A school variation of Herman Miller in Yellow color and size EU 32.",
+        "Id": "26-2",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 356,
+        "SKU": "HER1887",
+        "SalePrice": 342,
+        "Stock": 91
+      }
+    },
+    "SKU": "HER2248",
+    "SalePrice": 342,
+    "Stock": 91,
+    "Title": "School by Herman Miller #26"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Jorden",
+      "ProductCount": 322
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Jorden is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+    "IsFeatured": true,
+    "Price": 419,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Blue",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 30",
+          "2": "EU 36"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A smartphone variation of Jorden in Black color and size EU 34.",
+        "Id": "27-0",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 419,
+        "SKU": "JOR2204",
+        "SalePrice": 399,
+        "Stock": 39
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 30"
+        },
+        "Description": "A smartphone variation of Jorden in Blue color and size EU 30.",
+        "Id": "27-1",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 419,
+        "SKU": "JOR2921",
+        "SalePrice": 399,
+        "Stock": 39
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 36"
+        },
+        "Description": "A smartphone variation of Jorden in Yellow color and size EU 36.",
+        "Id": "27-2",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 419,
+        "SKU": "JOR1992",
+        "SalePrice": 399,
+        "Stock": 39
+      }
+    },
+    "SKU": "JOR2182",
+    "SalePrice": 399,
+    "Stock": 39,
+    "Title": "SmartPhone by Jorden #27"
+  },
+  {
+    "Brands": {
+      "id": "9",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Addidas",
+      "ProductCount": 378
+    },
+    "CategoryId": 7,
+    "Description": "This dog product from Addidas is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+    "IsFeatured": false,
+    "Price": 480,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Blue",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 30",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A dog variation of Addidas in Red color and size EU 40.",
+        "Id": "28-0",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 480,
+        "SKU": "ADD4068",
+        "SalePrice": 457,
+        "Stock": 36
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 30"
+        },
+        "Description": "A dog variation of Addidas in Blue color and size EU 30.",
+        "Id": "28-1",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 480,
+        "SKU": "ADD4873",
+        "SalePrice": 457,
+        "Stock": 36
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 32"
+        },
+        "Description": "A dog variation of Addidas in Black color and size EU 32.",
+        "Id": "28-2",
+        "Image": "https://pngimg.com/uploads/dog_food/dog_food_PNG27.png",
+        "Price": 480,
+        "SKU": "ADD1399",
+        "SalePrice": 457,
+        "Stock": 36
+      }
+    },
+    "SKU": "ADD3993",
+    "SalePrice": 457,
+    "Stock": 36,
+    "Title": "Dog by Addidas #28"
+  },
+  {
+    "Brands": {
+      "id": "9",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Nike",
+      "ProductCount": 146
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Nike is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+    "IsFeatured": true,
+    "Price": 307,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Black",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 40",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Nike in Blue color and size EU 32.",
+        "Id": "29-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 307,
+        "SKU": "NIK5445",
+        "SalePrice": 290,
+        "Stock": 11
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Nike in Black color and size EU 40.",
+        "Id": "29-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 307,
+        "SKU": "NIK3336",
+        "SalePrice": 290,
+        "Stock": 11
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A shoes variation of Nike in Yellow color and size EU 34.",
+        "Id": "29-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5823.png",
+        "Price": 307,
+        "SKU": "NIK1424",
+        "SalePrice": 290,
+        "Stock": 11
+      }
+    },
+    "SKU": "NIK6259",
+    "SalePrice": 290,
+    "Stock": 11,
+    "Title": "Shoes by Nike #29"
+  },
+  {
+    "Brands": {
+      "id": "10",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Knewood",
+      "ProductCount": 406
+    },
+    "CategoryId": 6,
+    "Description": "This school product from Knewood is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+    "IsFeatured": true,
+    "Price": 172,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "White",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 40",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 32"
+        },
+        "Description": "A school variation of Knewood in Yellow color and size EU 32.",
+        "Id": "30-0",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 172,
+        "SKU": "KNE8261",
+        "SalePrice": 167,
+        "Stock": 84
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A school variation of Knewood in White color and size EU 40.",
+        "Id": "30-1",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 172,
+        "SKU": "KNE3848",
+        "SalePrice": 167,
+        "Stock": 84
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 38"
+        },
+        "Description": "A school variation of Knewood in Blue color and size EU 38.",
+        "Id": "30-2",
+        "Image": "https://pngimg.com/uploads/notebook/notebook_PNG19104.png",
+        "Price": 172,
+        "SKU": "KNE9706",
+        "SalePrice": 167,
+        "Stock": 84
+      }
+    },
+    "SKU": "KNE6752",
+    "SalePrice": 167,
+    "Stock": 84,
+    "Title": "School by Knewood #30"
+  },
+  {
+    "Brands": {
+      "id": "10",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Herman Miller",
+      "ProductCount": 220
+    },
+    "CategoryId": 8,
+    "Description": "This dining product from Herman Miller is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+    "IsFeatured": false,
+    "Price": 465,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "White",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 30",
+          "Two": "EU 32",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 30"
+        },
+        "Description": "A dining variation of Herman Miller in Red color and size EU 30.",
+        "Id": "31-0",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 465,
+        "SKU": "HER8005",
+        "SalePrice": 445,
+        "Stock": 26
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A dining variation of Herman Miller in White color and size EU 32.",
+        "Id": "31-1",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 465,
+        "SKU": "HER7491",
+        "SalePrice": 445,
+        "Stock": 26
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 34"
+        },
+        "Description": "A dining variation of Herman Miller in Blue color and size EU 34.",
+        "Id": "31-2",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 465,
+        "SKU": "HER7146",
+        "SalePrice": 445,
+        "Stock": 26
+      }
+    },
+    "SKU": "HER1642",
+    "SalePrice": 445,
+    "Stock": 26,
+    "Title": "Dining by Herman Miller #31"
+  },
+  {
+    "Brands": {
+      "id": "2",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Zara",
+      "ProductCount": 95
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Zara is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+    "IsFeatured": false,
+    "Price": 81,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "White",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 34",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 36"
+        },
+        "Description": "A shoes variation of Zara in Green color and size EU 36.",
+        "Id": "32-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 81,
+        "SKU": "ZAR8274",
+        "SalePrice": 70,
+        "Stock": 44
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 34"
+        },
+        "Description": "A shoes variation of Zara in White color and size EU 34.",
+        "Id": "32-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 81,
+        "SKU": "ZAR7953",
+        "SalePrice": 70,
+        "Stock": 44
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 32"
+        },
+        "Description": "A shoes variation of Zara in Black color and size EU 32.",
+        "Id": "32-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 81,
+        "SKU": "ZAR8694",
+        "SalePrice": 70,
+        "Stock": 44
+      }
+    },
+    "SKU": "ZAR6136",
+    "SalePrice": 70,
+    "Stock": 44,
+    "Title": "Shoes by Zara #32"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Apple",
+      "ProductCount": 245
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": true,
+    "Price": 118,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "White",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 40",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Apple in Red color and size EU 38.",
+        "Id": "33-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 118,
+        "SKU": "APP7784",
+        "SalePrice": 96,
+        "Stock": 100
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A wooden variation of Apple in White color and size EU 40.",
+        "Id": "33-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 118,
+        "SKU": "APP7104",
+        "SalePrice": 96,
+        "Stock": 100
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Apple in Yellow color and size EU 34.",
+        "Id": "33-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 118,
+        "SKU": "APP6888",
+        "SalePrice": 96,
+        "Stock": 100
+      }
+    },
+    "SKU": "APP1351",
+    "SalePrice": 96,
+    "Stock": 100,
+    "Title": "Wooden by Apple #33"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Ikea",
+      "ProductCount": 396
+    },
+    "CategoryId": 8,
+    "Description": "This dining product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+    "IsFeatured": false,
+    "Price": 223,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Red",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 36",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A dining variation of Ikea in White color and size EU 40.",
+        "Id": "34-0",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 223,
+        "SKU": "IKE9714",
+        "SalePrice": 197,
+        "Stock": 28
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 36"
+        },
+        "Description": "A dining variation of Ikea in Red color and size EU 36.",
+        "Id": "34-1",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 223,
+        "SKU": "IKE1333",
+        "SalePrice": 197,
+        "Stock": 28
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 38"
+        },
+        "Description": "A dining variation of Ikea in Blue color and size EU 38.",
+        "Id": "34-2",
+        "Image": "https://pngimg.com/uploads/dining_table/dining_table_PNG63.png",
+        "Price": 223,
+        "SKU": "IKE5976",
+        "SalePrice": 197,
+        "Stock": 28
+      }
+    },
+    "SKU": "IKE1433",
+    "SalePrice": 197,
+    "Stock": 28,
+    "Title": "Dining by Ikea #34"
+  },
+  {
+    "Brands": {
+      "id": "1",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Puma",
+      "ProductCount": 55
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Puma is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": true,
+    "Price": 228,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "White",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 36",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 40"
+        },
+        "Description": "A wooden variation of Puma in Green color and size EU 40.",
+        "Id": "35-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 228,
+        "SKU": "PUM5157",
+        "SalePrice": 209,
+        "Stock": 39
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A wooden variation of Puma in White color and size EU 36.",
+        "Id": "35-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 228,
+        "SKU": "PUM5827",
+        "SalePrice": 209,
+        "Stock": 39
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Puma in Blue color and size EU 34.",
+        "Id": "35-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 228,
+        "SKU": "PUM9574",
+        "SalePrice": 209,
+        "Stock": 39
+      }
+    },
+    "SKU": "PUM2785",
+    "SalePrice": 209,
+    "Stock": 39,
+    "Title": "Wooden by Puma #35"
+  },
+  {
+    "Brands": {
+      "id": "8",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Zara",
+      "ProductCount": 402
+    },
+    "CategoryId": 4,
+    "Description": "This sparkling product from Zara is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+    "IsFeatured": false,
+    "Price": 467,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Yellow",
+          "2": "Blue"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 36",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 38"
+        },
+        "Description": "A sparkling variation of Zara in Black color and size EU 38.",
+        "Id": "36-0",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 467,
+        "SKU": "ZAR2290",
+        "SalePrice": 457,
+        "Stock": 13
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 36"
+        },
+        "Description": "A sparkling variation of Zara in Yellow color and size EU 36.",
+        "Id": "36-1",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 467,
+        "SKU": "ZAR1096",
+        "SalePrice": 457,
+        "Stock": 13
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 30"
+        },
+        "Description": "A sparkling variation of Zara in Blue color and size EU 30.",
+        "Id": "36-2",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 467,
+        "SKU": "ZAR7455",
+        "SalePrice": 457,
+        "Stock": 13
+      }
+    },
+    "SKU": "ZAR8118",
+    "SalePrice": 457,
+    "Stock": 13,
+    "Title": "Sparkling by Zara #36"
+  },
+  {
+    "Brands": {
+      "id": "10",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Ikea",
+      "ProductCount": 456
+    },
+    "CategoryId": 5,
+    "Description": "This smartphone product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+    "IsFeatured": false,
+    "Price": 192,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Black",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 30",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 34"
+        },
+        "Description": "A smartphone variation of Ikea in Blue color and size EU 34.",
+        "Id": "37-0",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 192,
+        "SKU": "IKE4863",
+        "SalePrice": 167,
+        "Stock": 18
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 30"
+        },
+        "Description": "A smartphone variation of Ikea in Black color and size EU 30.",
+        "Id": "37-1",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 192,
+        "SKU": "IKE6125",
+        "SalePrice": 167,
+        "Stock": 18
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A smartphone variation of Ikea in Red color and size EU 38.",
+        "Id": "37-2",
+        "Image": "https://pngimg.com/uploads/iphone_12/iphone_12_PNG27.png",
+        "Price": 192,
+        "SKU": "IKE9448",
+        "SalePrice": 167,
+        "Stock": 18
+      }
+    },
+    "SKU": "IKE4702",
+    "SalePrice": 167,
+    "Stock": 18,
+    "Title": "SmartPhone by Ikea #37"
+  },
+  {
+    "Brands": {
+      "id": "6",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Zara",
+      "ProductCount": 358
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Zara is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": false,
+    "Price": 418,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "Blue",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 34",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 40"
+        },
+        "Description": "A tailors variation of Zara in Green color and size EU 40.",
+        "Id": "38-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 418,
+        "SKU": "ZAR9853",
+        "SalePrice": 402,
+        "Stock": 88
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 34"
+        },
+        "Description": "A tailors variation of Zara in Blue color and size EU 34.",
+        "Id": "38-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 418,
+        "SKU": "ZAR1947",
+        "SalePrice": 402,
+        "Stock": 88
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A tailors variation of Zara in White color and size EU 32.",
+        "Id": "38-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 418,
+        "SKU": "ZAR5844",
+        "SalePrice": 402,
+        "Stock": 88
+      }
+    },
+    "SKU": "ZAR8511",
+    "SalePrice": 402,
+    "Stock": 88,
+    "Title": "Tailors by Zara #38"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Acer",
+      "ProductCount": 106
+    },
+    "CategoryId": 4,
+    "Description": "This sparkling product from Acer is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+    "IsFeatured": true,
+    "Price": 177,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Black",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 30",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 38"
+        },
+        "Description": "A sparkling variation of Acer in Red color and size EU 38.",
+        "Id": "39-0",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 177,
+        "SKU": "ACE2358",
+        "SalePrice": 159,
+        "Stock": 31
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 30"
+        },
+        "Description": "A sparkling variation of Acer in Black color and size EU 30.",
+        "Id": "39-1",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 177,
+        "SKU": "ACE6043",
+        "SalePrice": 159,
+        "Stock": 31
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 32"
+        },
+        "Description": "A sparkling variation of Acer in Green color and size EU 32.",
+        "Id": "39-2",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 177,
+        "SKU": "ACE2661",
+        "SalePrice": 159,
+        "Stock": 31
+      }
+    },
+    "SKU": "ACE7295",
+    "SalePrice": 159,
+    "Stock": 31,
+    "Title": "Sparkling by Acer #39"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Puma",
+      "ProductCount": 274
+    },
+    "CategoryId": 9,
+    "Description": "This cosmetics product from Puma is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+    "IsFeatured": true,
+    "Price": 210,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "Yellow",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 38",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A cosmetics variation of Puma in Red color and size EU 40.",
+        "Id": "40-0",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 210,
+        "SKU": "PUM2590",
+        "SalePrice": 181,
+        "Stock": 81
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 38"
+        },
+        "Description": "A cosmetics variation of Puma in Yellow color and size EU 38.",
+        "Id": "40-1",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 210,
+        "SKU": "PUM1276",
+        "SalePrice": 181,
+        "Stock": 81
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 32"
+        },
+        "Description": "A cosmetics variation of Puma in Green color and size EU 32.",
+        "Id": "40-2",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 210,
+        "SKU": "PUM8058",
+        "SalePrice": 181,
+        "Stock": 81
+      }
+    },
+    "SKU": "PUM2264",
+    "SalePrice": 181,
+    "Stock": 81,
+    "Title": "Cosmetics by Puma #40"
+  },
+  {
+    "Brands": {
+      "id": "6",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Ikea",
+      "ProductCount": 220
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+    "IsFeatured": false,
+    "Price": 220,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "Yellow",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 36",
+          "2": "EU 40"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 38"
+        },
+        "Description": "A tailors variation of Ikea in Black color and size EU 38.",
+        "Id": "41-0",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 220,
+        "SKU": "IKE9035",
+        "SalePrice": 211,
+        "Stock": 96
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 36"
+        },
+        "Description": "A tailors variation of Ikea in Yellow color and size EU 36.",
+        "Id": "41-1",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 220,
+        "SKU": "IKE1623",
+        "SalePrice": 211,
+        "Stock": 96
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 40"
+        },
+        "Description": "A tailors variation of Ikea in Red color and size EU 40.",
+        "Id": "41-2",
+        "Image": "https://pngimg.com/uploads/sewing_machine/sewing_machine_PNG61.png",
+        "Price": 220,
+        "SKU": "IKE5748",
+        "SalePrice": 211,
+        "Stock": 96
+      }
+    },
+    "SKU": "IKE7029",
+    "SalePrice": 211,
+    "Stock": 96,
+    "Title": "Tailors by Ikea #41"
+  },
+  {
+    "Brands": {
+      "id": "6",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Apple",
+      "ProductCount": 96
+    },
+    "CategoryId": 6,
+    "Description": "This school product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/school_bag/school_bag_PNG19.png",
+    "IsFeatured": true,
+    "Price": 58,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Yellow",
+          "2": "Red"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 40",
+          "Two": "EU 36",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 40"
+        },
+        "Description": "A school variation of Apple in Blue color and size EU 40.",
+        "Id": "42-0",
+        "Image": "https://pngimg.com/uploads/school_bag/school_bag_PNG19.png",
+        "Price": 58,
+        "SKU": "APP3431",
+        "SalePrice": 47,
+        "Stock": 88
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 36"
+        },
+        "Description": "A school variation of Apple in Yellow color and size EU 36.",
+        "Id": "42-1",
+        "Image": "https://pngimg.com/uploads/school_bag/school_bag_PNG19.png",
+        "Price": 58,
+        "SKU": "APP5085",
+        "SalePrice": 47,
+        "Stock": 88
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 34"
+        },
+        "Description": "A school variation of Apple in Red color and size EU 34.",
+        "Id": "42-2",
+        "Image": "https://pngimg.com/uploads/school_bag/school_bag_PNG19.png",
+        "Price": 58,
+        "SKU": "APP1723",
+        "SalePrice": 47,
+        "Stock": 88
+      }
+    },
+    "SKU": "APP7498",
+    "SalePrice": 47,
+    "Stock": 88,
+    "Title": "School by Apple #42"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Nike",
+      "ProductCount": 383
+    },
+    "CategoryId": 3,
+    "Description": "This tailors product from Nike is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/thread/thread_PNG37.png",
+    "IsFeatured": true,
+    "Price": 495,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Green",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 40",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 36"
+        },
+        "Description": "A tailors variation of Nike in Blue color and size EU 36.",
+        "Id": "43-0",
+        "Image": "https://pngimg.com/uploads/thread/thread_PNG37.png",
+        "Price": 495,
+        "SKU": "NIK1840",
+        "SalePrice": 472,
+        "Stock": 61
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 40"
+        },
+        "Description": "A tailors variation of Nike in Green color and size EU 40.",
+        "Id": "43-1",
+        "Image": "https://pngimg.com/uploads/thread/thread_PNG37.png",
+        "Price": 495,
+        "SKU": "NIK9571",
+        "SalePrice": 472,
+        "Stock": 61
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 32"
+        },
+        "Description": "A tailors variation of Nike in White color and size EU 32.",
+        "Id": "43-2",
+        "Image": "https://pngimg.com/uploads/thread/thread_PNG37.png",
+        "Price": 495,
+        "SKU": "NIK7723",
+        "SalePrice": 472,
+        "Stock": 61
+      }
+    },
+    "SKU": "NIK1843",
+    "SalePrice": 472,
+    "Stock": 61,
+    "Title": "Tailors by Nike #43"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Ikea",
+      "ProductCount": 218
+    },
+    "CategoryId": 1,
+    "Description": "This shoes product from Ikea is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+    "IsFeatured": true,
+    "Price": 219,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Black",
+          "Two": "White",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 36",
+          "Two": "EU 40",
+          "2": "EU 38"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 36"
+        },
+        "Description": "A shoes variation of Ikea in Black color and size EU 36.",
+        "Id": "44-0",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 219,
+        "SKU": "IKE9966",
+        "SalePrice": 205,
+        "Stock": 60
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A shoes variation of Ikea in White color and size EU 40.",
+        "Id": "44-1",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 219,
+        "SKU": "IKE4910",
+        "SalePrice": 205,
+        "Stock": 60
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A shoes variation of Ikea in Green color and size EU 38.",
+        "Id": "44-2",
+        "Image": "https://pngimg.com/uploads/running_shoes/running_shoes_PNG5827.png",
+        "Price": 219,
+        "SKU": "IKE9225",
+        "SalePrice": 205,
+        "Stock": 60
+      }
+    },
+    "SKU": "IKE5846",
+    "SalePrice": 205,
+    "Stock": 60,
+    "Title": "Shoes by Ikea #44"
+  },
+  {
+    "Brands": {
+      "id": "6",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Nike",
+      "ProductCount": 101
+    },
+    "CategoryId": 4,
+    "Description": "This sparkling product from Nike is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+    "IsFeatured": false,
+    "Price": 253,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "White",
+          "Two": "Green",
+          "2": "Yellow"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 32",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 34"
+        },
+        "Description": "A sparkling variation of Nike in White color and size EU 34.",
+        "Id": "45-0",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 253,
+        "SKU": "NIK8294",
+        "SalePrice": 248,
+        "Stock": 76
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 32"
+        },
+        "Description": "A sparkling variation of Nike in Green color and size EU 32.",
+        "Id": "45-1",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 253,
+        "SKU": "NIK6069",
+        "SalePrice": 248,
+        "Stock": 76
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 30"
+        },
+        "Description": "A sparkling variation of Nike in Yellow color and size EU 30.",
+        "Id": "45-2",
+        "Image": "https://pngimg.com/uploads/perfume/perfume_PNG10256.png",
+        "Price": 253,
+        "SKU": "NIK6676",
+        "SalePrice": 248,
+        "Stock": 76
+      }
+    },
+    "SKU": "NIK4945",
+    "SalePrice": 248,
+    "Stock": 76,
+    "Title": "Sparkling by Nike #45"
+  },
+  {
+    "Brands": {
+      "id": "4",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Jorden",
+      "ProductCount": 50
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Jorden is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+    "IsFeatured": false,
+    "Price": 186,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Blue",
+          "Two": "Green",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 30",
+          "Two": "EU 38",
+          "2": "EU 34"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Blue",
+          "Size": "EU 30"
+        },
+        "Description": "A wooden variation of Jorden in Blue color and size EU 30.",
+        "Id": "46-0",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 186,
+        "SKU": "JOR9841",
+        "SalePrice": 180,
+        "Stock": 45
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Jorden in Green color and size EU 38.",
+        "Id": "46-1",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 186,
+        "SKU": "JOR8085",
+        "SalePrice": 180,
+        "Stock": 45
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Jorden in Black color and size EU 34.",
+        "Id": "46-2",
+        "Image": "https://pngimg.com/uploads/wooden_chair/wooden_chair_PNG_17475.png",
+        "Price": 186,
+        "SKU": "JOR9694",
+        "SalePrice": 180,
+        "Stock": 45
+      }
+    },
+    "SKU": "JOR4035",
+    "SalePrice": 180,
+    "Stock": 45,
+    "Title": "Wooden by Jorden #46"
+  },
+  {
+    "Brands": {
+      "id": "2",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Jorden",
+      "ProductCount": 384
+    },
+    "CategoryId": 9,
+    "Description": "This cosmetics product from Jorden is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+    "IsFeatured": false,
+    "Price": 336,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Yellow",
+          "Two": "White",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 36",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A cosmetics variation of Jorden in Yellow color and size EU 34.",
+        "Id": "47-0",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 336,
+        "SKU": "JOR4306",
+        "SalePrice": 325,
+        "Stock": 66
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 36"
+        },
+        "Description": "A cosmetics variation of Jorden in White color and size EU 36.",
+        "Id": "47-1",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 336,
+        "SKU": "JOR4808",
+        "SalePrice": 325,
+        "Stock": 66
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 30"
+        },
+        "Description": "A cosmetics variation of Jorden in Black color and size EU 30.",
+        "Id": "47-2",
+        "Image": "https://pngimg.com/uploads/lipstick/lipstick_PNG88824.png",
+        "Price": 336,
+        "SKU": "JOR8701",
+        "SalePrice": 325,
+        "Stock": 66
+      }
+    },
+    "SKU": "JOR3817",
+    "SalePrice": 325,
+    "Stock": 66,
+    "Title": "Cosmetics by Jorden #47"
+  },
+  {
+    "Brands": {
+      "id": "3",
+      "Image": "",
+      "IsFeatured": true,
+      "Name": "Apple",
+      "ProductCount": 139
+    },
+    "CategoryId": 2,
+    "Description": "This wooden product from Apple is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+    "IsFeatured": false,
+    "Price": 112,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "Yellow",
+          "2": "Black"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 38",
+          "Two": "EU 34",
+          "2": "EU 32"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 38"
+        },
+        "Description": "A wooden variation of Apple in Green color and size EU 38.",
+        "Id": "48-0",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 112,
+        "SKU": "APP9046",
+        "SalePrice": 91,
+        "Stock": 60
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 34"
+        },
+        "Description": "A wooden variation of Apple in Yellow color and size EU 34.",
+        "Id": "48-1",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 112,
+        "SKU": "APP2641",
+        "SalePrice": 91,
+        "Stock": 60
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Black",
+          "Size": "EU 32"
+        },
+        "Description": "A wooden variation of Apple in Black color and size EU 32.",
+        "Id": "48-2",
+        "Image": "https://pngimg.com/uploads/table/table_PNG6950.png",
+        "Price": 112,
+        "SKU": "APP9582",
+        "SalePrice": 91,
+        "Stock": 60
+      }
+    },
+    "SKU": "APP2150",
+    "SalePrice": 91,
+    "Stock": 60,
+    "Title": "Wooden by Apple #48"
+  },
+  {
+    "Brands": {
+      "id": "10",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Acer",
+      "ProductCount": 158
+    },
+    "CategoryId": 8,
+    "Description": "This dining product from Acer is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+    "IsFeatured": true,
+    "Price": 453,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Green",
+          "Two": "Yellow",
+          "2": "White"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 34",
+          "Two": "EU 32",
+          "2": "EU 40"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 34"
+        },
+        "Description": "A dining variation of Acer in Green color and size EU 34.",
+        "Id": "49-0",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 453,
+        "SKU": "ACE1611",
+        "SalePrice": 437,
+        "Stock": 33
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "Yellow",
+          "Size": "EU 32"
+        },
+        "Description": "A dining variation of Acer in Yellow color and size EU 32.",
+        "Id": "49-1",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 453,
+        "SKU": "ACE3488",
+        "SalePrice": 437,
+        "Stock": 33
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 40"
+        },
+        "Description": "A dining variation of Acer in White color and size EU 40.",
+        "Id": "49-2",
+        "Image": "https://pngimg.com/uploads/plate/plate_PNG8907.png",
+        "Price": 453,
+        "SKU": "ACE1668",
+        "SalePrice": 437,
+        "Stock": 33
+      }
+    },
+    "SKU": "ACE5224",
+    "SalePrice": 437,
+    "Stock": 33,
+    "Title": "Dining by Acer #49"
+  },
+  {
+    "Brands": {
+      "id": "5",
+      "Image": "",
+      "IsFeatured": false,
+      "Name": "Herman Miller",
+      "ProductCount": 287
+    },
+    "CategoryId": 9,
+    "Description": "This cosmetics product from Herman Miller is crafted with premium quality and designed for everyday use.",
+    "Image": "https://pngimg.com/uploads/makeup/makeup_PNG28.png",
+    "IsFeatured": true,
+    "Price": 428,
+    "ProductsAttributes": {
+      "One": {
+        "Name": "Color",
+        "Values": {
+          "One": "Red",
+          "Two": "White",
+          "2": "Green"
+        }
+      },
+      "Two": {
+        "Name": "Size",
+        "Values": {
+          "One": "EU 32",
+          "Two": "EU 38",
+          "2": "EU 30"
+        }
+      }
+    },
+    "ProductsVariation": {
+      "One": {
+        "AttributeValue": {
+          "Color": "Red",
+          "Size": "EU 32"
+        },
+        "Description": "A cosmetics variation of Herman Miller in Red color and size EU 32.",
+        "Id": "50-0",
+        "Image": "https://pngimg.com/uploads/makeup/makeup_PNG28.png",
+        "Price": 428,
+        "SKU": "HER2139",
+        "SalePrice": 416,
+        "Stock": 55
+      },
+      "Two": {
+        "AttributeValue": {
+          "Color": "White",
+          "Size": "EU 38"
+        },
+        "Description": "A cosmetics variation of Herman Miller in White color and size EU 38.",
+        "Id": "50-1",
+        "Image": "https://pngimg.com/uploads/makeup/makeup_PNG28.png",
+        "Price": 428,
+        "SKU": "HER6177",
+        "SalePrice": 416,
+        "Stock": 55
+      },
+      "Three": {
+        "AttributeValue": {
+          "Color": "Green",
+          "Size": "EU 30"
+        },
+        "Description": "A cosmetics variation of Herman Miller in Green color and size EU 30.",
+        "Id": "50-2",
+        "Image": "https://pngimg.com/uploads/makeup/makeup_PNG28.png",
+        "Price": 428,
+        "SKU": "HER1420",
+        "SalePrice": 416,
+        "Stock": 55
+      }
+    },
+    "SKU": "HER8668",
+    "SalePrice": 416,
+    "Stock": 55,
+    "Title": "Cosmetics by Herman Miller #50"
+  }
+]
