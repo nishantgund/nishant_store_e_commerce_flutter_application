@@ -9,6 +9,7 @@ import 'package:nishant_store/features/shop/controllers/product/product_controll
 import 'package:nishant_store/features/shop/screens/Home/product_card_vertical.dart';
 import 'package:nishant_store/features/shop/screens/Home/seaction_heading.dart';
 import 'package:nishant_store/features/shop/screens/Home/search_container.dart';
+import 'package:nishant_store/features/shop/screens/Home/t_live_search_product.dart';
 import 'package:nishant_store/features/shop/screens/Home/t_promo_slider.dart';
 import 'package:nishant_store/features/shop/screens/Home/vertical_image_text.dart';
 import 'package:nishant_store/features/shop/screens/all%20product/t_all_product.dart';
@@ -46,7 +47,7 @@ class THomeScreen extends StatelessWidget {
                           SizedBox(height: 32,),
 
                           // Search
-                          TSearchContainer(text: 'Search in Store',onPressed: (){},),
+                          TSearchContainer(text: 'Search in Store',onPressed: () => Get.to(() => TSearchScreen()),),
                           SizedBox(height: 32,),
 
                           // Categories

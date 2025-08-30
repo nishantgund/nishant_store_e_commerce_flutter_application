@@ -1,6 +1,7 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:nishant_store/features/personalization/models/addresses_model.dart';
 import 'package:nishant_store/features/shop/models/cart_item_model.dart';
+import 'package:nishant_store/features/shop/models/transaction_model.dart';
 import 'package:nishant_store/utils/constants/enum.dart';
 
 class OrderModel{
@@ -13,6 +14,7 @@ class OrderModel{
   final AddressModel? address;
   final DateTime? deliveryDate;
   final List<CartItemModel> items;
+  final TransactionModel? transaction;
 
   OrderModel({
     required this.id,
@@ -24,6 +26,7 @@ class OrderModel{
     this.paymentMethod ='Paypal',
     this.address,
     this.deliveryDate,
+    this.transaction
   });
 
   String get orderStatusText => status == OrderStatus.delivered
@@ -43,7 +46,8 @@ class OrderModel{
       'paymentMethod' : paymentMethod,
       'address' : address?.toJson(),
       'deliveryDate' : deliveryDate,
-      'items': items.map((item) => item.toJSON()).toList()
+      'items': items.map((item) => item.toJSON()).toList(),
+      'transaction' : transaction?.toJSON()
     };
   }
 
@@ -59,6 +63,7 @@ class OrderModel{
       address: AddressModel.fromMap(data['address'] as Map<String, dynamic>),
       deliveryDate: data['deliveryDate'] == null ? null : (data['deliveryDate'] as Timestamp).toDate(),
       items: (data['items'] as List<dynamic>).map((itemData) => CartItemModel.fromJSON(itemData as Map<String, dynamic>)).toList(),
+      transaction: data['transaction'] != null ? TransactionModel.fromJson(data['transaction'] as Map<String, dynamic>) : TransactionModel.empty()
     );
   }
 

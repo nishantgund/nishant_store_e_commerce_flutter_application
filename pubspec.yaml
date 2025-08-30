@@ -43,6 +43,7 @@ dependencies:
   connectivity_plus: ^6.1.4
   shimmer: ^3.0.0
   image_picker: ^1.1.2
+  #upi_india: ^3.0.1
 
 
   # firebase
