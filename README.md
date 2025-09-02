@@ -1,4 +1,4 @@
-# 🛍️ E-Commerce Flutter App (Blinkit Clone)
+# 🛍️ E-Commerce Flutter App (Nishant Store)
 
 A full-featured **E-Commerce Flutter Application** inspired by Blinkit, built using **Flutter with GetX State Management** and **MVVM Architecture**.  
 The app supports **Firebase Authentication, Firestore Database, Cloudinary API for product images, and UPI Payment Integration**.
